@@ -17,12 +17,3 @@ This is a simple stopwatch web application built using **HTML**, **CSS**, and **
 1. Open `index.html` in any web browser.
 2. Use the buttons to control the stopwatch and record lap times.
 
-## 🌐 Deploy on GitHub Pages
-1. Upload all files to a public GitHub repository.
-2. Go to **Settings > Pages**.
-3. Set the source to `main` branch and root folder (`/`).
-4. Visit the generated URL to use your stopwatch online.
-
----
-
-Created as a beginner-friendly stopwatch project.
